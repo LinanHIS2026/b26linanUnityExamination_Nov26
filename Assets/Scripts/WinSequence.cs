@@ -18,8 +18,8 @@ public class WinSequence : MonoBehaviour
     private IEnumerator WinRoutine()
     {
         yield return new WaitForSeconds(2f);
-        
-        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex
         int nextSceneIndex = currentSceneIndex + 1;
         SceneManager.LoadScene(nextSceneIndex);
     }
