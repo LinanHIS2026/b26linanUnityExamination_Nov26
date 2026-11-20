@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: a724b07e096189641aa4e08cc5b15c1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8108213114853306702
+    second: PropsAngelOfJustice_0
+  - first:
+      213: 5315299568903821523
+    second: PropsAngelOfJustice_1
+  - first:
+      213: 3967471699707818133
+    second: PropsAngelOfJustice_2
+  - first:
+      213: -3612977083942259724
+    second: PropsAngelOfJustice_3
+  - first:
+      213: -3890003916376633095
+    second: PropsAngelOfJustice_4
+  - first:
+      213: 1153285887576283494
+    second: PropsAngelOfJustice_5
+  - first:
+      213: 2658743404458443986
+    second: PropsAngelOfJustice_6
+  - first:
+      213: -5393591710794198083
+    second: PropsAngelOfJustice_7
+  - first:
+      213: 5124508567481041811
+    second: PropsAngelOfJustice_8
+  - first:
+      213: -9123086186125869073
+    second: PropsAngelOfJustice_9
+  - first:
+      213: 2773232794749132144
+    second: PropsAngelOfJustice_10
+  - first:
+      213: -5369809605822783836
+    second: PropsAngelOfJustice_11
+  - first:
+      213: 1228386623089746859
+    second: PropsAngelOfJustice_12
+  - first:
+      213: -7651015584552674355
+    second: PropsAngelOfJustice_13
+  - first:
+      213: 1375440805108085606
+    second: PropsAngelOfJustice_14
+  - first:
+      213: -9195420025599478088
+    second: PropsAngelOfJustice_15
+  - first:
+      213: -2296336856186558876
+    second: PropsAngelOfJustice_16
+  - first:
+      213: -3791529212451225472
+    second: PropsAngelOfJustice_17
+  - first:
+      213: 7067063323181938593
+    second: PropsAngelOfJustice_18
+  - first:
+      213: -7408189964850882006
+    second: PropsAngelOfJustice_19
+  - first:
+      213: 3064669415817331708
+    second: PropsAngelOfJustice_20
+  - first:
+      213: 4913675561589971911
+    second: PropsAngelOfJustice_21
+  - first:
+      213: 6721609976075823518
+    second: PropsAngelOfJustice_22
+  - first:
+      213: 4234836905935532468
+    second: PropsAngelOfJustice_23
+  - first:
+      213: -7229277859125138218
+    second: PropsAngelOfJustice_24
+  - first:
+      213: -5010773984410196415
+    second: PropsAngelOfJustice_25
+  - first:
+      213: 2448348220852352852
+    second: PropsAngelOfJustice_26
+  - first:
+      213: 3277000373655411785
+    second: PropsAngelOfJustice_27
+  - first:
+      213: -8472176186942606957
+    second: PropsAngelOfJustice_28
+  - first:
+      213: 8451606719985338710
+    second: PropsAngelOfJustice_29
+  - first:
+      213: 4300697051556746319
+    second: PropsAngelOfJustice_30
+  - first:
+      213: -3691129568472522354
+    second: PropsAngelOfJustice_31
+  - first:
+      213: -1312114468188864033
+    second: PropsAngelOfJustice_32
+  - first:
+      213: -2630013495168878013
+    second: PropsAngelOfJustice_33
+  - first:
+      213: -2559374998940331132
+    second: PropsAngelOfJustice_34
+  - first:
+      213: 8699128529885898239
+    second: PropsAngelOfJustice_35
+  - first:
+      213: 2079583024548469433
+    second: PropsAngelOfJustice_36
+  - first:
+      213: 3409952834329927255
+    second: PropsAngelOfJustice_37
+  - first:
+      213: 3066032691817102371
+    second: PropsAngelOfJustice_38
+  - first:
+      213: 3127297663133873953
+    second: PropsAngelOfJustice_39
+  - first:
+      213: 434051757693523605
+    second: PropsAngelOfJustice_40
+  - first:
+      213: -530833748511154898
+    second: PropsAngelOfJustice_41
+  - first:
+      213: -8740204431433196171
+    second: PropsAngelOfJustice_42
+  - first:
+      213: 4830625850088319150
+    second: PropsAngelOfJustice_43
+  - first:
+      213: 4400823919330654963
+    second: PropsAngelOfJustice_44
+  - first:
+      213: 8668013972655951783
+    second: PropsAngelOfJustice_45
+  - first:
+      213: -1634834200163678757
+    second: PropsAngelOfJustice_46
+  - first:
+      213: 7972720599704392461
+    second: PropsAngelOfJustice_47
+  - first:
+      213: -2120954335640253132
+    second: PropsAngelOfJustice_48
+  - first:
+      213: -273538277521034310
+    second: PropsAngelOfJustice_49
+  - first:
+      213: 715609370794704673
+    second: PropsAngelOfJustice_50
+  - first:
+      213: -1837698268545649305
+    second: PropsAngelOfJustice_51
+  - first:
+      213: 1580545777933229230
+    second: PropsAngelOfJustice_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 879
+        width: 156
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41bef96ed8268070800000000000000
+      internalID: 8108213114853306702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 905
+        width: 30
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89c47dbccb3c940800000000000000
+      internalID: 5315299568903821523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 914
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ff758d7a4f0730800000000000000
+      internalID: 3967471699707818133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 913
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bef90c702cddc0800000000000000
+      internalID: -3612977083942259724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 950
+        width: 245
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f01e755c0ee30ac0800000000000000
+      internalID: -3890003916376633095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 905
+        width: 93
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699475876b410010800000000000000
+      internalID: 1153285887576283494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 779
+        width: 55
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d488ab2a01c5e420800000000000000
+      internalID: 2658743404458443986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 780
+        width: 59
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3de9e5aec1625b0800000000000000
+      internalID: -5393591710794198083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 814
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393472d2469ed1740800000000000000
+      internalID: 5124508567481041811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 817
+        width: 195
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefb1bc2379446180800000000000000
+      internalID: -9123086186125869073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 747
+        width: 62
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5c7a98808c7620800000000000000
+      internalID: 2773232794749132144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 776
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed37d2d9a9a75b0800000000000000
+      internalID: -5369809605822783836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 746
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba32b1c102b1c0110800000000000000
+      internalID: 1228386623089746859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 827
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb92c7dcd122d590800000000000000
+      internalID: -7651015584552674355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 740
+        width: 38
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637b06ff1c861310800000000000000
+      internalID: 1375440805108085606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 683
+        width: 135
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b631a5c43e436080800000000000000
+      internalID: -9195420025599478088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 746
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ec5abbc5c120e0800000000000000
+      internalID: -2296336856186558876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 634
+        width: 51
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08004580548c16bc0800000000000000
+      internalID: -3791529212451225472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 702
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7737746a0431260800000000000000
+      internalID: 7067063323181938593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 411
+        width: 126
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a137c2a72d03990800000000000000
+      internalID: -7408189964850882006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 589
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3cbcba894e78a20800000000000000
+      internalID: 3064669415817331708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 647
+        width: 116
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb9616b3e1e03440800000000000000
+      internalID: 4913675561589971911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 545
+        width: 158
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a8be19a4f74d50800000000000000
+      internalID: 6721609976075823518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 381
+        width: 225
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b170049ab925ca30800000000000000
+      internalID: 4234836905935532468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 501
+        width: 96
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcef38e6127cab90800000000000000
+      internalID: -7229277859125138218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 386
+        width: 124
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14626710c97267ab0800000000000000
+      internalID: -5010773984410196415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 538
+        width: 10
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573d562cb74af120800000000000000
+      internalID: 2448348220852352852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 534
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c9d804a7e3a7d20800000000000000
+      internalID: 3277000373655411785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39133ce35a8cc6a80800000000000000
+      internalID: -8472176186942606957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 378
+        width: 135
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c70688832a4570800000000000000
+      internalID: 8451606719985338710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 463
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441c9cae252fab30800000000000000
+      internalID: 4300697051556746319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 463
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e812143c63976ccc0800000000000000
+      internalID: -3691129568472522354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 106
+        width: 85
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c3f2d7de6acde0800000000000000
+      internalID: -1312114468188864033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_33
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 379
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab9f919a0508bd0800000000000000
+      internalID: -2630013495168878013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 381
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835525aff54b7cd0800000000000000
+      internalID: -2559374998940331132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_35
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 383
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a057de4389b870800000000000000
+      internalID: 8699128529885898239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_36
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 381
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bad4232eb92cdc10800000000000000
+      internalID: 2079583024548469433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_37
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 275
+        width: 43
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e521f3906925f20800000000000000
+      internalID: 3409952834329927255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 285
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c3e791d7cbc8a20800000000000000
+      internalID: 3066032691817102371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 285
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f00ec7a4666b20800000000000000
+      internalID: 3127297663133873953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 285
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596d47f16cf060600800000000000000
+      internalID: 434051757693523605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 285
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1439a48912a8f0800000000000000
+      internalID: -530833748511154898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 111
+        width: 73
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d1120906e84b680800000000000000
+      internalID: -8740204431433196171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_43
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 111
+        width: 47
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8655ded94d90340800000000000000
+      internalID: 4830625850088319150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_44
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 277
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fafebeb90ed21d30800000000000000
+      internalID: 4400823919330654963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_45
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 278
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc74478c8fa4870800000000000000
+      internalID: 8668013972655951783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_46
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 279
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58598e4f6ef49e0800000000000000
+      internalID: -1634834200163678757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_47
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 279
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d1d6e42bc4ae60800000000000000
+      internalID: 7972720599704392461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 344
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d865fd44bd092e0800000000000000
+      internalID: -2120954335640253132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 111
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f2e7c262343cf0800000000000000
+      internalID: -273538277521034310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_50
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 94
+        width: 246
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fb8286eea5ee900800000000000000
+      internalID: 715609370794704673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 210
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7657cfa492f2f76e0800000000000000
+      internalID: -1837698268545649305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PropsAngelOfJustice_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 10
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac14fcc20a3fe510800000000000000
+      internalID: 1580545777933229230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PropsAngelOfJustice_0: 8108213114853306702
+      PropsAngelOfJustice_1: 5315299568903821523
+      PropsAngelOfJustice_10: 2773232794749132144
+      PropsAngelOfJustice_11: -5369809605822783836
+      PropsAngelOfJustice_12: 1228386623089746859
+      PropsAngelOfJustice_13: -7651015584552674355
+      PropsAngelOfJustice_14: 1375440805108085606
+      PropsAngelOfJustice_15: -9195420025599478088
+      PropsAngelOfJustice_16: -2296336856186558876
+      PropsAngelOfJustice_17: -3791529212451225472
+      PropsAngelOfJustice_18: 7067063323181938593
+      PropsAngelOfJustice_19: -7408189964850882006
+      PropsAngelOfJustice_2: 3967471699707818133
+      PropsAngelOfJustice_20: 3064669415817331708
+      PropsAngelOfJustice_21: 4913675561589971911
+      PropsAngelOfJustice_22: 6721609976075823518
+      PropsAngelOfJustice_23: 4234836905935532468
+      PropsAngelOfJustice_24: -7229277859125138218
+      PropsAngelOfJustice_25: -5010773984410196415
+      PropsAngelOfJustice_26: 2448348220852352852
+      PropsAngelOfJustice_27: 3277000373655411785
+      PropsAngelOfJustice_28: -8472176186942606957
+      PropsAngelOfJustice_29: 8451606719985338710
+      PropsAngelOfJustice_3: -3612977083942259724
+      PropsAngelOfJustice_30: 4300697051556746319
+      PropsAngelOfJustice_31: -3691129568472522354
+      PropsAngelOfJustice_32: -1312114468188864033
+      PropsAngelOfJustice_33: -2630013495168878013
+      PropsAngelOfJustice_34: -2559374998940331132
+      PropsAngelOfJustice_35: 8699128529885898239
+      PropsAngelOfJustice_36: 2079583024548469433
+      PropsAngelOfJustice_37: 3409952834329927255
+      PropsAngelOfJustice_38: 3066032691817102371
+      PropsAngelOfJustice_39: 3127297663133873953
+      PropsAngelOfJustice_4: -3890003916376633095
+      PropsAngelOfJustice_40: 434051757693523605
+      PropsAngelOfJustice_41: -530833748511154898
+      PropsAngelOfJustice_42: -8740204431433196171
+      PropsAngelOfJustice_43: 4830625850088319150
+      PropsAngelOfJustice_44: 4400823919330654963
+      PropsAngelOfJustice_45: 8668013972655951783
+      PropsAngelOfJustice_46: -1634834200163678757
+      PropsAngelOfJustice_47: 7972720599704392461
+      PropsAngelOfJustice_48: -2120954335640253132
+      PropsAngelOfJustice_49: -273538277521034310
+      PropsAngelOfJustice_5: 1153285887576283494
+      PropsAngelOfJustice_50: 715609370794704673
+      PropsAngelOfJustice_51: -1837698268545649305
+      PropsAngelOfJustice_52: 1580545777933229230
+      PropsAngelOfJustice_6: 2658743404458443986
+      PropsAngelOfJustice_7: -5393591710794198083
+      PropsAngelOfJustice_8: 5124508567481041811
+      PropsAngelOfJustice_9: -9123086186125869073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
