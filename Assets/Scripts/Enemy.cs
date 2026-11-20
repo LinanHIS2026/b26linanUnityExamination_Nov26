@@ -9,7 +9,6 @@ public class Enemy : MonoBehaviour
         if (collision.GetComponent<PlayerController>())
         {
             collision.gameObject.transform.position = playerSpawnPoint.position;
-            FindFirstObjectByType<GameOverManager>().ReduceLives();
         }
     }
 }
